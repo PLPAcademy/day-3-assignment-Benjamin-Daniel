@@ -8,7 +8,6 @@
 B) Download the Dart SDK
 
 
-
 2. Which command verifies the Dart installation on macOS?
 D) dart --version
 
